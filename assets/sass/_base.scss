@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+}
+body{
+    background-color: #f1f0ff;
+}
+.col-360{
+    width:360px;
+}
+.col-800{
+    width:800px;
+}
